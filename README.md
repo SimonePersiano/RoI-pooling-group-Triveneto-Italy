@@ -17,4 +17,4 @@ In the attribute table of the shapefile, the following data area provided for ea
 - Mean: Mean Annual Flood [(m^3)/s]
 - DEV_STD: Standard deviation;
 - CV: coefficiente of variation;
-- fields from X1913 to X2012: annual maximum flood recorded for the given year.  
+- fields from X1913 to X2012: annual maximum flood [(m^3)/s] recorded for the given year.  
