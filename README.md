@@ -2,9 +2,7 @@
 
 https://zenodo.org/badge/latestdoi/194627072
 
-Here is a dataset of annual maximum series (AMS) of peak flow discharges collected for a possibly homogeneous 
-pooling-group of 20 nested catchments in Triveneto (North-Eastern Italy), identified by means of the 
-Region of Influence (RoI) approach (see e.g. Burn, 1990).
+Here is a dataset of annual maximum series (AMS) of peak flow discharges collected for an acceptably homogeneous pooling-group of 20 partially-nested catchments in Triveneto (North-Eastern Italy), identified by means of the Region of Influence (RoI) approach (see e.g. Burn, 1990).
 
 In the attribute table of the shapefile, the following data are provided for each catchment:
 - Code: station ID;
